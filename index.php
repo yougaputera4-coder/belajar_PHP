@@ -10,5 +10,19 @@
     <?php 
      echo "bunda rahma"
     ?>
+
+    <?php 
+     $panjang = 6;
+     $luas = 7;
+
+     $luas = $panjang * $lebar;
+
+     echo "luas persegi panjang adalah $luas <br/> ";
+
+     echo 'luas persegi panjang adalah $luas <br/>';
+     echo 'luas persegi panjang' .$luas. ' <br/>'
+
+    ?>
+
 </body>
 </html>
